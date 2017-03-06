@@ -1,6 +1,6 @@
 # Summary
 
-* [InHabit for Publishers](inhabit-for-publishers.md)
+* [InHabit for Publishers](about-inhabit-js.md)
   * [About InHabit](about-inhabit-js.md)
   * [Reading the Context of an Article & Embedding a Factive](reading-the-context-of-an-article-and-embedding-a-factive.md)
   * [Brand Safety](brand-safety.md)
