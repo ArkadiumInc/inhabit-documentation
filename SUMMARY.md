@@ -18,6 +18,7 @@
     * Final Checklist
     * Submitting your Factive
     * What if my Factive gets rejected?
+  * [Factive Tests](inhabit-for-factive-creators/factive-tests.md)
   * Factive Examples
   * References
 * [Introduction](README.md)
