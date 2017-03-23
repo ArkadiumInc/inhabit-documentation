@@ -9,7 +9,7 @@ Factive pass the test suite if there are no one test produce error code of type 
 
 ## How to start factive in sandbox
 - open [sandbox]
-- run in browser javascript console **RunWidget(<factive moduleId>, <factive version>, <factive exampleContextualUrl>)**
+- run in browser javascript console `RunWidget(<factive moduleId>, <factive version>, <factive exampleContextualUrl>)`
 
 Notifications:
 - **presenter.module** - http(s) request **//my_callback_handler_to_proxy_success_module** 
@@ -39,9 +39,9 @@ Analytics events are stored in javascript variable window.scenarioEvents (it is 
 - Get the API test output and parse it
 
 To reproduce third and fourth steps manually, run in browser javascript console function 
-**UnitTesting(<moduleId>, <version>)**
+`UnitTesting(<moduleId>, <version>)`
 and see test log in javascript variable 
-**tape.log**
+`tape.log`
 
 
 ### API tests
