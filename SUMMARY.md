@@ -13,7 +13,7 @@
   * [Desktop/Mobile Size Restrictions](inhabit-for-factive-creators/desktopmobile-size-restrictions.md)
   * [Your First Factive](factive-creation/README.md)
     * [How to start](factive-creation/how-to-start.md)
-    * [Lifecycle](inhabit-for-factive-creators/your-first-factive/how-to-y.md)
+    * [Lifecycle](factive-creation/factive-life-cycle.md)
     * How to Z
     * Final Checklist
     * Submitting your Factive
