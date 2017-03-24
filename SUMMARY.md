@@ -12,8 +12,8 @@
   * [Visualization Best Practices](inhabit-for-factive-creators/visualization-best-practices.md)
   * [Desktop/Mobile Size Restrictions](inhabit-for-factive-creators/desktopmobile-size-restrictions.md)
   * [Your First Factive](factive-creation/README.md)
-    * [Creation process](factive-creation/how-to-start.md)
-    * [Interactions with Inhabit](inhabit-for-factive-creators/your-first-factive/how-to-y.md)
+    * [How to start](factive-creation/how-to-start.md)
+    * [Lifecycle](inhabit-for-factive-creators/your-first-factive/how-to-y.md)
     * How to Z
     * Final Checklist
     * Submitting your Factive
