@@ -21,6 +21,8 @@
   * [Factive Tests](factive-creation/factive-tests.md)
   * Factive Examples
   * [References](factive-creation/references.md)
-  * [Deployment](inhabit_manifest.md)
+  * [Package manifest](inhabit_manifest.md)
 * [Introduction](README.md)
+* [Developers portal](developers-portal.md)
+  * [Web hooks](developers-portal/web-hooks.md)
 
