@@ -5,7 +5,7 @@
   * [Reading the Context of an Article & Embedding a Factive](reading-the-context-of-an-article-and-embedding-a-factive.md)
   * [Brand Safety](brand-safety.md)
   * [Where to Install InHabit](where-to-install-inhabit-js.md)
-* [InHabit for Factive Creators](inhabit-for-factive-creators.md)
+* [InHabit for Factive Creators](README.md)
   * [About InHabit](factive-creation/introduction.md)
   * [What are Factives?](factive-creation/what-are-factives.md)
   * [Editorial Best Practices](factive-creation/editorial-best-practices.md)
@@ -21,6 +21,6 @@
   * [Factive Tests](factive-creation/factive-tests.md)
   * Factive Examples
   * [References](factive-creation/references.md)
-* [Introduction](README.md)
   * [Deployment](inhabit_manifest.md)
+* [Introduction](README.md)
 
