@@ -20,7 +20,7 @@
     * What if my Factive gets rejected?
   * [Factive Tests](factive-creation/factive-tests.md)
   * Factive Examples
-  * References
+  * [References](factive-creation/references.md)
 * [Introduction](README.md)
   * [Deployment](inhabit_manifest.md)
 
