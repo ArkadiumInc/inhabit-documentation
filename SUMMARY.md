@@ -6,11 +6,11 @@
   * [Brand Safety](brand-safety.md)
   * [Where to Install InHabit](where-to-install-inhabit-js.md)
 * [InHabit for Factive Creators](inhabit-for-factive-creators.md)
-  * [About InHabit](inhabit-for-factive-creators/introduction.md)
-  * [What are Factives?](inhabit-for-factive-creators/what-are-factives.md)
-  * [Editorial Best Practices](inhabit-for-factive-creators/editorial-best-practices.md)
-  * [Visualization Best Practices](inhabit-for-factive-creators/visualization-best-practices.md)
-  * [Desktop/Mobile Size Restrictions](inhabit-for-factive-creators/desktopmobile-size-restrictions.md)
+  * [About InHabit](factive-creation/introduction.md)
+  * [What are Factives?](factive-creation/what-are-factives.md)
+  * [Editorial Best Practices](factive-creation/editorial-best-practices.md)
+  * [Visualization Best Practices](factive-creation/visualization-best-practices.md)
+  * [Desktop/Mobile Size Restrictions](factive-creation/desktopmobile-size-restrictions.md)
   * [Your First Factive](factive-creation/README.md)
     * [How to start](factive-creation/how-to-start.md)
     * [Lifecycle](factive-creation/factive-life-cycle.md)
@@ -18,7 +18,7 @@
     * Final Checklist
     * Submitting your Factive
     * What if my Factive gets rejected?
-  * [Factive Tests](inhabit-for-factive-creators/factive-tests.md)
+  * [Factive Tests](factive-creation/factive-tests.md)
   * Factive Examples
   * References
 * [Introduction](README.md)
