@@ -200,6 +200,18 @@ For each script:
 - E.10.2 - Not both timestamps are presents
 - W.10.3 -  Time between timestamps more than 3000
 
+## Font problems test
+if **Start with default config test** failed, skip this test
+In another case, for each grabbed font url group:
+- Open factive in sandbox
+- Block request by this urls
+- Wait for any 2 notifications. 
+### Error codes
+- S.11.1 -  **Start with default config test** failed
+- S.11.2 - No one font contains in grabbed urls  set
+- W.11.3 - notification `presenter.module`  and notification `presenter.content` are presents (may be uncatched error)
+- E.11.4 - single notification `presenter.module` without notification `presenter.error` (undefined behaviour)
+
 # Feedback us
 
 ## Grabbed requests -&gt; filter
