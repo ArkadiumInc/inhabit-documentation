@@ -89,7 +89,7 @@ In another case, for each grabbed url:
 
 ## Error codes
 
-* E.3.1 - single notification `presenter.content` without notification `presenter.error` \(undefined behaviour\)
+* E.3.1 - single notification `presenter.module` without notification `presenter.error` \(undefined behaviour\)
 * W.3.2 - notification `presenter.module`  and notification `presenter.content` are presents \(may be uncatched error\)
 * S.3.3 - **Start with default config test** failed
 
